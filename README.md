@@ -11,22 +11,22 @@ html/css/javascript words
 
 | 标签           | 单词          | HTML5    | 说明     |
 | -------       | -------      | -------  | ------- |
-| <a\>          | Anchor       |          | 超链接／锚|
-| <abbr\>       | Abbreviation |          | 缩写／简写 |
-| <address\>    | Address      |          | 地址 |
-| <area\>       | Area         |          | 区域 |
-| <atricle\>    | Article      | &#10003; | 文章 |
-| <audio\>      | Audio        | &#10003; | 音频 |
-| <base\>       | Base         |          | 基准 |
-| <body\>       | Body         |          | 主体 |
-| <blockquote\> | Blockquote   |          | 引用 |
-| <button\>     | Button       |          | 按钮 |
-| <canvas\>     | Canvas       | &#10003; | 画布 |
-| <col\>        | Column       |          | 列 |
-| <colgroup\>   | Column Group |          | 列组 |
-| <datalist\>   | Data List    | &#10003; | 数据列表 |
-| <del\>        | Delete       |          | 删除 |
-| <details\>    | Details      | &#10003; | 细节 （部分浏览器不支持）|
+| &lt;a&gt;     | Anchor       |          | 超链接／锚|
+| &lt;abbr&gt;       | Abbreviation |          | 缩写／简写 |
+| &lt;address&gt;    | Address      |          | 地址 |
+| &lt;area&gt;       | Area         |          | 区域 |
+| &lt;atricle&gt;    | Article      | &#10003; | 文章 |
+| &lt;audio&gt;      | Audio        | &#10003; | 音频 |
+| &lt;base&gt;       | Base         |          | 基准 |
+| &lt;body&gt;       | Body         |          | 主体 |
+| &lt;blockquote&gt; | Blockquote   |          | 引用 |
+| &lt;button&gt;     | Button       |          | 按钮 |
+| &lt;canvas&gt;     | Canvas       | &#10003; | 画布 |
+| &lt;col&gt;        | Column       |          | 列 |
+| &lt;colgroup&gt;   | Column Group |          | 列组 |
+| &lt;datalist&gt;   | Data List    | &#10003; | 数据列表 |
+| &lt;del&gt;        | Delete       |          | 删除 |
+| &lt;details&gt;    | Details      | &#10003; | 细节 （部分浏览器不支持）|
 
 
 ### CSS
