@@ -3,11 +3,11 @@ html/css/javascript words
 
 ## 目录
 
-* [HTML](#HTML)
-* [CSS](#CSS)
-* [JavaScript](#JavaScript)
+* [HTML](#html)
+* [CSS](#css)
+* [JavaScript](#javascript)
 
-### HTML
+## HTML
 
 | 标签           | 单词          | HTML5    | 说明     |
 | -------       | -------      | -------  | ------- |
@@ -29,6 +29,6 @@ html/css/javascript words
 | &lt;details&gt;    | Details      | &#10003; | 细节 （部分浏览器不支持）|
 
 
-### CSS
+## CSS
 
-### JavaScript
+## JavaScript
