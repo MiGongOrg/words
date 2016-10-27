@@ -7,7 +7,7 @@ html/css/javascript words
 * [CSS](#css)
 * [JavaScript](#javascript)
 
-## HTML[^href]
+## HTML[^footnote]
 
 > 未收录部分浏览器不支持的标签
 
@@ -37,8 +37,11 @@ class/类
 | &lt;colgroup&gt;   | Column Group |          | 列组 |
 | &lt;del&gt;        | Delete       |          | 删除 |
 
-[^href]:href
+
 
 ## CSS
 
 ## JavaScript
+
+
+[^footnote]: 这是一个 *注脚* 的 **文本**。
