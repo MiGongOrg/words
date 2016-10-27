@@ -1,4 +1,4 @@
-# words
+# Words
 html/css/javascript words
 
 ## 目录
@@ -7,11 +7,17 @@ html/css/javascript words
 * [CSS](#css)
 * [JavaScript](#javascript)
 
-## HTML
+## HTML[^href]
 
-| 标签                | 单词          | HTML5    | 说明     |
-| -------            | -------      | -------  | ------- |
-| &lt;a&gt;          | Anchor       |          | 超链接／锚 |
+> 未收录部分浏览器不支持的标签
+
+```
+class/类
+```
+
+| 标签                | 单词          | HTML5    | 说明     | 延伸     |
+| -------            | -------      | -------  | ------- | ------- |
+| &lt;a&gt;          | Anchor       |          | 超链接／锚 | `href` `rel(relation)` `nofollow`
 | &lt;abbr&gt;       | Abbreviation |          | 缩写／简写 |
 | &lt;address&gt;    | Address      |          | 地址 |
 | &lt;area&gt;       | Area         |          | 区域 |
@@ -29,10 +35,9 @@ html/css/javascript words
 | &lt;code&gt;       | Code         |          | 代码 |
 | &lt;col&gt;        | Column       |          | 列 |
 | &lt;colgroup&gt;   | Column Group |          | 列组 |
-| &lt;datalist&gt;   | Data List    | &#10003; | 数据列表 (部分浏览器不支持) |
 | &lt;del&gt;        | Delete       |          | 删除 |
-| &lt;details&gt;    | Details      | &#10003; | 细节 (部分浏览器不支持) |
 
+[^href]:href
 
 ## CSS
 
