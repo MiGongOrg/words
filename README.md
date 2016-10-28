@@ -10,19 +10,23 @@ Words 提供 HTML/CSSS/JavaScript 中所涉及到的大部分单词，希望对�
 
 ## 重复出现
 
-> 在某种语言或多种语言中重复出现
+> 在某种语言或多种语言中重复出现频率较高的单词
 
 |          | 单词       | 说明 | HTML     | CSS      | JavaScript |
 | ---      | ---       | --- | -------- | -------- | -------- |
 | alt      | Alter     | 改变 | &#10003; |          |          |
+| auto     | Auto      | 自动 |          | &#10003; |          |
 | bottom   | Bottom    | 底部 | &#10003; | &#10003; | &#10003; |
 | class    | Class     | 类   | &#10003; |          | &#10003; |
+| color    | Color     | 颜色 |          | &#10003; | &#10003; |
 | content  | Content   | 内容 | &#10003; | &#10003; | &#10003; |
 | checked  | Checked   | 选中 | &#10003; |          | &#10003; |
 | disabled | Disabled  | 禁用 | &#10003; |          | &#10003; |
 | for      | For       |     | &#10003; |          | &#10003; |
 | height   | Height    | 高度 | &#10003; | &#10003; | &#10003; |
+| right    | Right     | 右   | &#10003; | &#10003; | &#10003; |
 | list     | List      | 列表 | &#10003; |          | &#10003; |
+| left     | Left      | 左   | &#10003; | &#10003; | &#10003; |
 | type     | Type      | 类型 | &#10003; |          | &#10003; |
 | min      | Min       | 最小值 | &#10003; | &#10003; | &#10003; |
 | max      | Max       | 最大值 | &#10003; | &#10003; | &#10003; |
@@ -106,9 +110,22 @@ Words 提供 HTML/CSSS/JavaScript 中所涉及到的大部分单词，希望对�
 | &lt;time&gt;       | Time            | &#10003; | 时间 | `datetime` `pubdate`
 | &lt;title&gt;      | Title           |          | 标题 |
 | &lt;ul&gt;         | Unordered List  |          | 无序列表 |
-| &lt;video&gt;      | Video           | &#10003; | 视频 | ｀poster｀
+| &lt;video&gt;      | Video           | &#10003; | 视频 | `poster`
 
 
 ## CSS
+
+| 属性                | 单词             | CSS3    | 说明     | 属性扩展 |
+| -------            | ----------      | -------  | ------- | ------- |
+| animation          | Animation       | &#10003; | 动画     | `duration` `timing` `delay` `iteration` `count` `direction` `play` `state` `fill` `mode` |
+| background         | Background      |          | 背景     | `attachment` `image` `position` `repeat` `clip` `origin` `size` |
+| border             | Border          |          | 边框     | `radius` `outset` `repeat` `slice` `source` `box-shadow` `outline` |
+| columns            | Columns         | &#10003; | 多列     | `count` `fill` `gap` `rule`
+| font               | Font            |          | 字体     | `family` `adjust` `stretch` `variant` `weight` |
+| margin             | Margin          |          | 外边距    |
+| padding            | Padding         |          | 内边距    |
+| clear              | Clear           |          | 清除     | `both` `inherit`
+| clip               | Clip            |          | 修剪     | `shape` `inherit`
+
 
 ## JavaScript
